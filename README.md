@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Lisa Jansen  
 
-<!--
-**Lisa-jansen/Lisa-jansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year **B.Sc. (Hons) in Applied Science – Extended Year in Statistics** student at the **University of Sri Jayewardenepura**.  
+Passionate about transforming data into insights through **statistical modeling**, **data analysis**, and **visualization**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me  
+- 📊 Skilled in data analysis, visualization, and statistical modeling  
+- 💻 Skilled in analytical thinking and problem-solving  
+- 🌱 Continuously learning and improving my data science toolkit  
+
+---
+
+## 💻 Technical Skills  
+**Programming:** Python, R, C++, VS Code  
+**Statistical Tools:** SPSS, Minitab, STATA  
+**Visualization:** Power BI, Excel  
+
+---
+
+## 🎯 Interests  
+Data Science | Econometrics  | Data Visualization  
+
+
+
